@@ -9,8 +9,15 @@
          line-height: 1.17;
          letter-spacing: 0.03em;
          text-transform: uppercase;}  
-        .custom-button:hover,.custom-button:focus {
-         background-color: #404BBF;}
+        .root {background-color: #4D5AE5;
+            font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+             color: #ffffff;
+            background-color: #404BBF;
+        }
 
         
     
