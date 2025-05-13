@@ -18,16 +18,15 @@ body { font-family: "Roboto", sans-serif;
              color: #ffffff;
             background-color: #404BBF;
         }
-
-        
-    
-    .main-section {background-color:#2e2f42;}
-    .text_main {font-size: 56px;
-        line-height: 1.07;
-        text-align: center;
+p {font-size: 16px;line-height: 1.5;letter-spacing: 0.02em;color:#434455;}
+     h2 {font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #ffffff;}
+        color: #2e2f42;"}   
     
+    
+   
      
     
  
