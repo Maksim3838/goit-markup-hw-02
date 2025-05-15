@@ -105,9 +105,9 @@ nav span {
 }
 
 .feat-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
@@ -116,6 +116,15 @@ nav span {
 
 .feat-li {
   background-color: #fff;
+}
+
+.Product {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
 }
 
 .ourportfolio {
